@@ -1,6 +1,22 @@
+body {
+    color: #222;
+}
+
+a {
+    color: #0033cc;
+}
+
 body.dark {
-    background: #152028;
-    color: white
+    // background: #152028;
+    background: #121212;
+    color:  #eee;
+
+    a {
+        color: #1aabb6;
+    }
+    h1, h2 {
+        color: #dfdea4;
+    }
 }
 
 .hidden {
