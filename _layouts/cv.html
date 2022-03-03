@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% for cv in site.cv %}
+	{% if cv.lang == "eng" %}
+	<div id="cv-{{ cv.lang }}">
+		{{ cv.content }}
+	</div>
+	{% else %}
+	<div id="cv-{{ cv.lang }}" class="hidden">
+		{{ cv.content }}
+	</div>
+	{% endif %}
+{% endfor %}
