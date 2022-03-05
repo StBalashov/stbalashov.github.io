@@ -7,7 +7,7 @@ lang: eng
 
 21 y.o., St. Petersburg
 
-[vk](https://vk.com/st.balashov), [tg](https://tg.me/StBalashov), [email](mailto:stbalashov@gmail.com), [github](https://github.com/StBalashov), [+79533535040](tel:+79533535040)
+[tg](https://tg.me/StBalashov), [email](mailto:stbalashov@gmail.com), [github](https://github.com/StBalashov), [+79533535040](tel:+79533535040)
 
 ## Education:
 
@@ -16,20 +16,22 @@ lang: eng
 
 ## Experience:
 
-- ITMO University, Java backend developer, intern
+- ### ITMO University, Java backend developer
 
     > 07.2020-08.2020
+
+    **Job:** Internship, bootstrap and infrastucture for students. 
 
     **What I've done :**
 
     - Implemented Service Discovery (Eureka, Docker Swarm)
     - Created and deployes auth сервиса with JWT and Spring Security
 
-- Sixhands, Python backend developer
+- ### Sixhands, Python backend developer
 
     > 09.2020-12.2020
 
-    Outsource, e-commerce, web studio
+    **Job:** Outsource, e-commerce, web studio
 
     **Projects:**
 
@@ -42,6 +44,20 @@ lang: eng
     - Backend, API, business logic
     - Infrastructure issues, CI/CD.
 
+- ### InfoTeCS, DevOps, Build Engineer
+
+    > 01.2021-now
+
+    **Job:** Cybersecurity hardware and software for large companies
+
+    - Created Ansible repo with playbooks, implemented IaaC approach.
+    - Designed and implemented new build-from-sources process in main product
+    - Introduced BlackDuck analysis for products via Kotlin DSL 
+    - TeamCity and Ant/Ivy build support. 
+
+
+
+
 ## Pet projects and self-education:
 
 - Python telegram bots
@@ -51,7 +67,8 @@ lang: eng
 - NLP и morphological analysis on Python()
     - ? 
 - docs.photo
-- ideen
+- [ideen](https://ideen.ai/)
+    > NLP project with ML,
 - more on my [github](https://github.com/StBalashov)
 
 ## Languages:
