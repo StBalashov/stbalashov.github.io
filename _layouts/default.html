@@ -33,10 +33,13 @@
         if(chbox.checked){
           document.getElementById("cv-eng").classList.add('hidden');
           document.getElementById("cv-rus").classList.remove('hidden');
+          document.getElementById("download").setAttribute("href", "assets/pdf/Резюме_Балашов.pdf")
         }
         else {
           document.getElementById("cv-rus").classList.add('hidden');
           document.getElementById("cv-eng").classList.remove('hidden');
+          document.getElementById("download").setAttribute("href", "assets/pdf/CV_Balashov.pdf")
+
         }
       }
       function changeTheme() {
@@ -64,5 +67,18 @@
       })();
     </script>
     <!-- End Matomo Code -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- <script>
+      function download_pdf(){
+        var chbox = document.getElementById("lang");
+        if (chbox.checked){
+          var element = document.getElementById('cv-rus');
+        }
+        else {
+          var element = document.getElementById('cv-eng');
+        }
+        html2pdf(element);
+      }
+    </script> -->
   </body>
 </html>
