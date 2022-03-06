@@ -10,6 +10,10 @@ nav {
     width: 100%;
 }
 
+li {
+    padding: 5px;
+}
+
 
 body.dark {
     // background: #152028;
@@ -20,11 +24,11 @@ body.dark {
         color: #1aabb6;
     }
     h1, h2 {
-        color: #ECB365;
+        color: #cec659;
     }
-    h3 {
-        color: #da8895;
-    }
+    // h3 {
+    //     color: #c96b2d;
+    // }
 }
 
 .hidden {
