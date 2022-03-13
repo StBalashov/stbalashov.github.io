@@ -10,12 +10,12 @@ lang: rus
 
 ## Образование:
 
-- Бакалавр в [ИТМО](https://ifmo.ru), [ФИТИП](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), кафедра КТ -> кафедра ИС 
+- Бакалавр в [ИТМО](https://itmo.ru), [ФИТИП](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), кафедра КТ -> кафедра ИС 
     >2017-2021
 
 ## Опыт работы:
 
-- ### Бекэнд разработчик на Java в [ИТМО](https://ifmo.ru)
+- ### Бекэнд разработчик на Java в [ИТМО](https://itmo.ru)
 
     > 07.2020-08.2020
 

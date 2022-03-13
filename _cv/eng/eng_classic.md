@@ -10,12 +10,12 @@ lang: eng
 
 ## Education:
 
-- B. AS. at [ITMO University](https://ifmo.ru), [Faculty of IT and Programming](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
+- B. AS. at [ITMO University](https://en.itmo.ru/), [Faculty of IT and Programming](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
     >2017-2021
 
 ## Experience:
 
-- ### Java backend developer at [ITMO University](https://ifmo.ru)
+- ### Java backend developer at [ITMO University](https://en.itmo.ru/)
 
     > 07.2020-08.2020
 

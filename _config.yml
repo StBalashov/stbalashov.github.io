@@ -21,7 +21,7 @@
 title: Stepan Balashov
 email: stbalashovl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stepan Balashov CV
+  My CV
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stbalashov.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
