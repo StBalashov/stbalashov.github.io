@@ -8,10 +8,6 @@ lang: eng
 
 [tg](https://tg.me/StBalashov), [email](mailto:stbalashov@gmail.com), [linkedin](https://www.linkedin.com/in/stepan-balashov-885a43233/), [github](https://github.com/StBalashov)
 
-## Education:
-
-- B. AS. at [ITMO University](https://ifmo.ru), [Faculty of IT and Programming](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
-    >2017-2021
 
 ## Experience:
 
@@ -61,6 +57,12 @@ lang: eng
 - [Algo-solving](https://binarysearch.com/@/StBalashov)
     
 - And some more on my [github](https://github.com/StBalashov)
+
+## Education:
+
+- Bachelor's degree of Applied Sciences at [ITMO University](https://ifmo.ru), [Faculty of IT and Programming](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
+    >2017-2021
+
 
 ## Languages:
 - Russian, native
