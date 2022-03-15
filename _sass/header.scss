@@ -4,8 +4,8 @@
     top: 0;
     margin: 0;
     width: 100%;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     background-color: #a6a6a6;
     display: flex;
     align-items: center;
@@ -19,6 +19,7 @@
 }
 
 .switch {
+    cursor: pointer;
     position: relative;
     display: inline-block;
     width: 60px;
@@ -106,10 +107,13 @@ input:checked + .slider:before {
 }
 
 .btn {
+    display: block;
     margin-right: 20px;
     border: none; 
     color: rgb(22, 6, 6);
-    padding: 14px 28px; 
+    min-width: 75px;
+    text-align: center;
+    padding: 8px 22px; 
     cursor: pointer;
 }
 
