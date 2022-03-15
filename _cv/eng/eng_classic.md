@@ -11,14 +11,16 @@ lang: eng
 
 ## Experience:
 
-- ### Java backend developer at [ITMO University](https://ifmo.ru)
+- ### DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
 
-    > 07.2020-08.2020
+    > 01.2021-now
 
-    Internship, bootstrap and infrastucture for students.
-
-    - Implemented Service Discovery (Eureka, Docker Swarm)
-    - Created and deployes auth сервиса with JWT and Spring Security  
+    - Taught myself Ansible, created repo with playbooks, implemented IaaC approach, which significantly simplified administrative tasks
+    - Designed and implemented new build process in main products, which not only made it possible to certify these products, but made it easy, generic and automated.
+    - Introduced BlackDuck and Svace analysis for products 
+    - Refactored some build pipelines and infrastructure
+    - TeamCity and Ant/Ivy build support
+    - Sandbox -> Docker transition  
 
 - ### Python backend developer at [Sixhands](https://sixhands.co/)
     > 09.2020-12.2020
@@ -36,16 +38,14 @@ lang: eng
     - Backend, API, business logic
     - Infrastructure, CI/CD  
 
-- ### DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
+- ### Java backend developer at [ITMO University](https://ifmo.ru)
 
-    > 01.2021-now
+    > 07.2020-08.2020
 
-    - Created Ansible repo with playbooks, implemented IaaC approach.
-    - Designed and implemented new build process in main products
-    - Introduced BlackDuck and Svace analysis for products 
-    - Refactored some build pipelines and infrastructure
-    - TeamCity and Ant/Ivy build support
-    - Sandbox -> Docker transition  
+    Internship, bootstrap and infrastucture for students.
+
+    - Implemented Service Discovery (Eureka, Docker Swarm)
+    - Created and deployes auth сервиса with JWT and Spring Security  
 
 ## Pet projects and more:
 - [docs.photo](https://docs.photo/)
