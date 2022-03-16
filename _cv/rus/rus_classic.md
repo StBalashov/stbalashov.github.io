@@ -1,12 +1,13 @@
 ---
 layout: cv
 lang: rus
+pdf: true
 ---
 # Степан Балашов
 
 21 год, Санкт-Петербург
 
-[telegram](https://t.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov), [github](https://github.com/StBalashov)
+[telegram](https://t.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov) • [github](https://github.com/StBalashov)
 
 
 ## Опыт работы:
@@ -75,12 +76,10 @@ lang: rus
     NLP, ML, CS, Python
     ```
 - [Решаю задачи на алгоритмы и структуры](https://binarysearch.com/@/StBalashov)
-    
-- И еще что-то на [github](https://github.com/StBalashov)
 
 ## Образование:
 
-- Бакалавр в [ИТМО](https://ifmo.ru), [ФИТИП](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), кафедра КТ -> кафедра ИС 
+- Бакалавр в [ИТМО](https://itmo.ru), [ФИТИП](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm)
     >2017-2021
 
 - Множество онлайн-курсов, включая [курс](https://edu.slurm.io/courses/slurm-school-k8s-dev) по **k8s** от [slurm](https://edu.slurm.io/), [курс](https://stepik.org/course/7) по **C++** от [CSS](https://compscicenter.ru/), и **другие** 

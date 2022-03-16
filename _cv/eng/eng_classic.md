@@ -1,6 +1,7 @@
 ---
 layout: cv
 lang: eng
+pdf: true
 ---
 # Stepan Balashov
 
@@ -51,7 +52,7 @@ lang: eng
     ```
 
 
-- ### Java backend developer at [ITMO University](https://ifmo.ru)
+- ### Java backend developer at [ITMO University](https://en.itmo.ru)
     *Internship, bootstrap and infrastucture for students*
 
     > 07.2020-08.2020
@@ -76,11 +77,9 @@ lang: eng
     ```
 - [Solving coding problems](https://binarysearch.com/@/StBalashov)
     
-- And some more on my [github](https://github.com/StBalashov)
-
 ## Education:
 
-- Bachelor's degree of Applied Sciences at [ITMO University](https://ifmo.ru), [Faculty of IT and Programming](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
+- Bachelor's degree of Applied Sciences at [ITMO University](https://en.itmo.ru), [Faculty of IT and Programming](https://en.itmo.ru/en/faculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
     >2017-2021
 
 - Multiple online courses, including **k8s** [course](https://edu.slurm.io/courses/slurm-school-k8s-dev) on [slurm](https://edu.slurm.io/), **C++** [course](https://stepik.org/course/7) from [CSS](https://compscicenter.ru/), and **more** 
