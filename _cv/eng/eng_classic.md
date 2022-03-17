@@ -9,12 +9,11 @@ pdf: true
 
 [telegram](https://tg.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov) • [github](https://github.com/StBalashov)
 
-
 ## Experience:
 
 - ### DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
     *Cybersecurity software corporation, internal automation dep.*
-
+    
     > 01.2021-now
 
     - Taught myself Ansible, created repo with playbooks, implemented IaaC approach, which significantly simplified administrative tasks

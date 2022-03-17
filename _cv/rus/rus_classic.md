@@ -9,7 +9,6 @@ pdf: true
 
 [telegram](https://t.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov) • [github](https://github.com/StBalashov)
 
-
 ## Опыт работы:
 
 - ### DevOps, билд-инженер в [ИнфоТеКС](https://infotecs.ru/)
