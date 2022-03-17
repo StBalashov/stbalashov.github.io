@@ -21,37 +21,6 @@
         {{ content }}
       </div>
     </main>
-    <script>
-      const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
-      console.log(prefersDarkScheme)
-      if (prefersDarkScheme.matches) {
-        document.body.classList.add("dark");
-        document.getElementById("theme").checked = true;
-      }
-      function changeLang() {
-        var chbox = document.getElementById("lang");
-        if(chbox.checked){
-          document.getElementById("cv-eng").classList.add('hidden');
-          document.getElementById("cv-rus").classList.remove('hidden');
-          document.getElementById("download").setAttribute("href", "assets/pdf/rus.pdf")
-          document.getElementById("download").textContent = "Скачать";
-        }
-        else {
-          document.getElementById("cv-rus").classList.add('hidden');
-          document.getElementById("cv-eng").classList.remove('hidden');
-          document.getElementById("download").setAttribute("href", "assets/pdf/eng.pdf")
-          document.getElementById("download").textContent = "Download";
-        }
-      }
-      function changeTheme() {
-        // var chbox = document.getElementById("theme");
-        // if(chbox.checked){
-        //   document.body.classList.toggle("dark")
-        // }
-        // else{
-          document.body.classList.toggle("dark")
-        // }
-      }
-    </script>
+    <script src = "/assets/js/script.js"></script>
   </body>
 </html>
