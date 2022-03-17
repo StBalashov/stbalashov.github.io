@@ -1,6 +1,6 @@
 <!DOCTYPE html0
 >
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,9 +9,9 @@
     {%- seo -%}
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="stylesheet" href="/assets/css/styles.css">
-    {%- feed_meta -%}
+    <link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
+      {%- include analytics.html -%}
     {%- endif -%}
   </head>
   <body>
@@ -21,64 +21,6 @@
         {{ content }}
       </div>
     </main>
-    <script>
-      const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
-      console.log(prefersDarkScheme)
-      if (prefersDarkScheme.matches) {
-        document.body.classList.add("dark");
-        document.getElementById("theme").checked = true;
-      }
-      function changeLang() {
-        var chbox = document.getElementById("lang");
-        if(chbox.checked){
-          document.getElementById("cv-eng").classList.add('hidden');
-          document.getElementById("cv-rus").classList.remove('hidden');
-          document.getElementById("download").setAttribute("href", "assets/pdf/Резюме_Балашов.pdf")
-        }
-        else {
-          document.getElementById("cv-rus").classList.add('hidden');
-          document.getElementById("cv-eng").classList.remove('hidden');
-          document.getElementById("download").setAttribute("href", "assets/pdf/CV_Balashov.pdf")
-
-        }
-      }
-      function changeTheme() {
-        // var chbox = document.getElementById("theme");
-        // if(chbox.checked){
-        //   document.body.classList.toggle("dark")
-        // }
-        // else{
-          document.body.classList.toggle("dark")
-        // }
-      }
-    </script>
-    <!-- Matomo -->
-    <script>
-      var _paq = window._paq = window._paq || [];
-      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="https://stbalashov.matomo.cloud/";
-        _paq.push(['setTrackerUrl', u+'matomo.php']);
-        _paq.push(['setSiteId', '1']);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.async=true; g.src='//cdn.matomo.cloud/stbalashov.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <!-- End Matomo Code -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <!-- <script>
-      function download_pdf(){
-        var chbox = document.getElementById("lang");
-        if (chbox.checked){
-          var element = document.getElementById('cv-rus');
-        }
-        else {
-          var element = document.getElementById('cv-eng');
-        }
-        html2pdf(element);
-      }
-    </script> -->
+    <script src = "/assets/js/script.js"></script>
   </body>
 </html>

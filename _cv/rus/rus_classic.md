@@ -1,34 +1,36 @@
 ---
 layout: cv
 lang: rus
+pdf: true
 ---
 # Степан Балашов
 
 21 год, Санкт-Петербург
 
-[tg](https://t.me/StBalashov), [email](mailto:stbalashov@gmail.com), [linkedin](https://www.linkedin.com/in/stepan-balashov-885a43233/), [github](https://github.com/StBalashov)
-
-## Образование:
-
-- Бакалавр в [ИТМО](https://itmo.ru), [ФИТИП](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), кафедра КТ -> кафедра ИС 
-    >2017-2021
+[telegram](https://t.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov) • [github](https://github.com/StBalashov)
 
 ## Опыт работы:
 
-- ### Бекэнд разработчик на Java в [ИТМО](https://itmo.ru)
+- ### DevOps, билд-инженер в [ИнфоТеКС](https://infotecs.ru/)
+    *Продуктовая корпорация в сфере информационной безопасности*
 
-    > 07.2020-08.2020
+    > 01.2021 - настоящее время
 
-    Учебная практика, создание инфраструктуры и шаблонов для учебного курса.
-
-    - Реализовал Service Discovery (Eureka, Docker Swarm)
-    - Разработал auth сервиса на JWT и Spring Security
+    - Изучил Ansible, создал репозиторий с плейбуками и ролями, реализовал подход IaaC, что сильно упростило административные задачи и значительно сократило даунтаймы
+    - Спроектировал и реализовал систему сборки из исходников для главных продуктов компании, что позволило сертифицировать существующие продукты и быстро собирать последующие
+    - Внедрил анализ через BlackDuck, Svace и других статических анализаторов
+    - Создал и порефакторил множество сборочных пайплайнов
+    - Администрировал TeamCity 
+    - Обернул и собрал множество компонентов в Apache Ant/Ivy
+    - Перевел часть сборок с schroot песочниц на Docker
+   
+    ```
+    Python, Apache Ant/Ivy, GNU Make, TeamCity, Ansible, Bash, etc.
+    ```  
 
 - ### Бекэнд разработчик на Python в [Sixhands](https://sixhands.co/)
-
+    *Аутсорсинг, веб-студия, eCommerce*
     > 09.2020-12.2020
-
-    Аутсорсинг, веб-студия, eCommerce
 
     **Проекты:**
 
@@ -36,35 +38,50 @@ lang: rus
     - [SEO утилита для бизнеса](localranktracker.com)
     - [Образовательная платформа для детей](uchisigrai.ru)
 
-    **На мне было:**
+    **Достижения:**
 
-    - Разработка бекэнда, API, реализация бизнес-логики
-    - Настройка инфраструктуры и пайплайна
+    - Спроектировал и реализовал для проектов внутреннюю бизнес-логику
+    - Разработал API 
+    - Подготовил инфраструктуру, задеплоил все сервисы, отладил пайплайны
+    - Обеспечил безопасность бекенда
+    
+    ```
+    Django, DRF, Docker Compose, nginx, Postgres, etc.
+    ```
 
-- ### DevOps, билд-инженер в [ИнфоТеКС](https://infotecs.ru/)
+- ### Бекэнд разработчик на Java в [ИТМО](https://ifmo.ru)
+    *Учебная практика, создание инфраструктуры и шаблонов для учебного курса.*
+    
+    > 07.2020-08.2020
 
-    > 01.2021 - настоящее время
+    - Реализовал Service Discovery в небольшом кластере
+    - Разработал auth микросервис
 
-    - Разработка ansible репозитория с плейбуками и ролями, реализация подхода IaaC
-    - Проектирование и реализация новой системы сборки из исходников для основных продуктов
-    - Внедрение BlackDuck, Svace и других анализаторов для продуктов
-    - Рефакторинг сборок и сборочной инфраструктуры
-    - Поддержка сборок на TeamCity, сборка продуктов через Apache Ant/Ivy
-    - Перевод сборок с песочниц на Docker
-
+    ```
+    Java, Spring, Docker Swarm, Eureka, JWT
+    ```
 
 
 ## Пет-проекты и прочее:
 
 - [docs.photo](https://docs.photo/)
     > Сервис для создания фото на документы онлайн   
-    **Тэги:** Go, Python, gRPC, ML
+    ```
+    Go, Python, gRPC, Docker, nginx
+    ``` 
 - [ideen](https://ideen.ai/)
     > Система знаний, обученная на всемирной базе патентов   
-    **Тэги:** NLP, ML, CS, Python
+    ```
+    NLP, ML, CS, Python
+    ```
 - [Решаю задачи на алгоритмы и структуры](https://binarysearch.com/@/StBalashov)
-    
-- И еще что-то на [github](https://github.com/StBalashov)
+
+## Образование:
+
+- Бакалавр в [ИТМО](https://itmo.ru), [ФИТИП](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm)
+    >2017-2021
+
+- Множество онлайн-курсов, включая [курс](https://edu.slurm.io/courses/slurm-school-k8s-dev) по **k8s** от [slurm](https://edu.slurm.io/), [курс](https://stepik.org/course/7) по **C++** от [CSS](https://compscicenter.ru/), и **другие** 
 
 ## Языки:
 - Русский, родной

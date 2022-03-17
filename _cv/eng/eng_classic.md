@@ -1,33 +1,37 @@
 ---
 layout: cv
 lang: eng
+pdf: true
 ---
 # Stepan Balashov
 
 21 y.o., St. Petersburg
 
-[tg](https://tg.me/StBalashov), [email](mailto:stbalashov@gmail.com), [linkedin](https://www.linkedin.com/in/stepan-balashov-885a43233/), [github](https://github.com/StBalashov)
-
-## Education:
-
-- B. AS. at [ITMO University](https://en.itmo.ru/), [Faculty of IT and Programming](https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
-    >2017-2021
+[telegram](https://tg.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov) • [github](https://github.com/StBalashov)
 
 ## Experience:
 
-- ### Java backend developer at [ITMO University](https://en.itmo.ru/)
+- ### DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
+    *Cybersecurity software corporation, internal automation dep.*
+    
+    > 01.2021-now
 
-    > 07.2020-08.2020
-
-    Internship, bootstrap and infrastucture for students.
-
-    - Implemented Service Discovery (Eureka, Docker Swarm)
-    - Created and deployes auth сервиса with JWT and Spring Security  
+    - Taught myself Ansible, created repo with playbooks, implemented IaaC approach, which significantly simplified administrative tasks
+    - Designed and implemented new build process in our products, which not only made it possible to certify these products, but made it easy, generic and automated.
+    - Introduced BlackDuck and Svace analysis for products to increase code quality and decrease risks 
+    - Created new build pipelines
+    - Administered TeamCity and build configurations
+    - Integrated Ant/Ivy for flexibility and convenience
+    - Made a transition from sandbox build environment to Docker  
+    
+    ```
+    Python, Apache Ant/Ivy, GNU Make, TeamCity, Ansible, Bash, etc.
+    ```  
 
 - ### Python backend developer at [Sixhands](https://sixhands.co/)
-    > 09.2020-12.2020
+    *Outsource, eCommerce, web studio*
 
-    Outsource, eCommerce, web studio
+    > 09.2020-12.2020
 
     **Projects:**
 
@@ -35,32 +39,50 @@ lang: eng
     - [SEO Tool for business](localranktracker.com)
     - [Educational platfrom for children](uchisigrai.ru)
 
-    **Responsibilities**:
+    **Activities:**
 
-    - Backend, API, business logic
-    - Infrastructure, CI/CD  
+    - Designed and implemeted business logic 
+    - Created API
+    - Prepared infrastructure, deployed the whole thing, set up CI/CD pipeline  
+    - Took care of all security issues
 
-- ### DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
+    ```
+    Django, DRF, Docker Compose, nginx, Postgres, etc.
+    ```
 
-    > 01.2021-now
 
-    - Created Ansible repo with playbooks, implemented IaaC approach.
-    - Designed and implemented new build process in main products
-    - Introduced BlackDuck and Svace analysis for products 
-    - Refactored some build pipelines and infrastructure
-    - TeamCity and Ant/Ivy build support
-    - Sandbox -> Docker transition  
+- ### Java backend developer at [ITMO University](https://en.itmo.ru)
+    *Internship, bootstrap and infrastucture for students*
+
+    > 07.2020-08.2020
+
+    - Implemented Service Discovery in small cluster
+    - Created and deployed auth microservice  
+
+    ```
+    Java, Spring, Docker Swarm, Eureka, JWT
+    ```
 
 ## Pet projects and more:
 - [docs.photo](https://docs.photo/)
-    > A service to create photos for documents online.  
-    **Tags:** Go, Python, gRPC, ML
+    > A service to create photos for documents online based on neural networks  
+    ```
+    Go, Python, gRPC, Docker, nginx
+    ``` 
 - [ideen](https://ideen.ai/)
     > Smart data network based on international patent database  
-    **Tags:** NLP, ML, CS, Python
-- [Algo-solving](https://binarysearch.com/@/StBalashov)
+    ```
+    NLP, ML, CS, Python
+    ```
+- [Solving coding problems](https://binarysearch.com/@/StBalashov)
     
-- And some more on my [github](https://github.com/StBalashov)
+## Education:
+
+- Bachelor's degree of Applied Sciences at [ITMO University](https://en.itmo.ru), [Faculty of IT and Programming](https://en.itmo.ru/en/faculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
+    >2017-2021
+
+- Multiple online courses, including **k8s** [course](https://edu.slurm.io/courses/slurm-school-k8s-dev) on [slurm](https://edu.slurm.io/), **C++** [course](https://stepik.org/course/7) from [CSS](https://compscicenter.ru/), and **more** 
+
 
 ## Languages:
 - Russian, native
