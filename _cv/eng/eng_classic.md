@@ -5,18 +5,18 @@ pdf: true
 ---
 # Stepan Balashov
 
-21 y.o., St. Petersburg
+St. Petersburg
 
 [telegram](https://tg.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov) • [github](https://github.com/StBalashov)
 
 ## Experience:
 
 - ### DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
-    *Cybersecurity software corporation, internal automation dep.*
+    *Cybersecurity software corporation, Department of internal automation*
     
     > 01.2021-now
 
-    - Taught myself Ansible, created repo with playbooks, implemented IaaC approach, which significantly simplified administrative tasks
+    - Studied Ansible, created repo with playbooks, implemented IaaC approach, which significantly simplified administrative tasks
     - Designed and implemented new build process in our products, which not only made it possible to certify these products, but made it easy, generic and automated.
     - Introduced BlackDuck and Svace analysis for products to increase code quality and decrease risks 
     - Created new build pipelines

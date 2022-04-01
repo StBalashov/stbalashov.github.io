@@ -5,7 +5,7 @@ pdf: true
 ---
 # Степан Балашов
 
-21 год, Санкт-Петербург
+Санкт-Петербург
 
 [telegram](https://t.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov) • [github](https://github.com/StBalashov)
 
