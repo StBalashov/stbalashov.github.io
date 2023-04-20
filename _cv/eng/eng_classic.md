@@ -11,10 +11,25 @@ St. Petersburg
 
 ## Experience:
 
+- ### Lead DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
+    *Cybersecurity software corporation, Department of internal automation*
+    
+    > 11.2022-now
+    
+    Led the team of 7 people, which successfuly:
+    - Transferred the core product to the modern and more suitable stack (Conan + Docker + fresh Debian)
+    - Prepared the certification process for several products
+    - Reduced average build time for core product by 50%
+    - Released arm build for the core product
+
+    ```
+    Python, Conan, Docker, Apache Ant/Ivy, GNU Make, TeamCity, Bash, etc.
+    ```
+
 - ### DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
     *Cybersecurity software corporation, Department of internal automation*
     
-    > 01.2021-now
+    > 01.2021-10.2022
 
     - Studied Ansible, created repo with playbooks, implemented IaaC approach, which significantly simplified administrative tasks
     - Designed and implemented new build process in our products, which not only made it possible to certify these products, but made it easy, generic and automated.
