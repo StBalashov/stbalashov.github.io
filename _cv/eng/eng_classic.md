@@ -5,7 +5,7 @@ pdf: true
 ---
 # Stepan Balashov
 
-St. Petersburg
+Tbilisi
 
 [telegram](https://tg.me/StBalashov) • [email](mailto:stbalashov@gmail.com) • [linkedin](https://www.linkedin.com/in/stbalashov) • [github](https://github.com/StBalashov)
 
