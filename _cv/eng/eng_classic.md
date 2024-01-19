@@ -20,7 +20,7 @@ Tbilisi
     - Transferred the core product to the modern and more suitable stack (Conan + Docker + fresh Debian)
     - Prepared the certification process for several products
     - Reduced average build time for core product by 50%
-    - Released arm build for the core product
+    - Released ARM-compatible build for the core product, which allowed running on new hardware
 
     ```
     Python, Conan, Docker, Apache Ant/Ivy, GNU Make, TeamCity, Bash, etc.
