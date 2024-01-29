@@ -11,31 +11,30 @@ Tbilisi
 
 ## Experience:
 
-- ### Lead DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
+- ### Lead Software Engineer at [InfoTeCS](https://infotecs.ru/)
     *Cybersecurity software corporation, Department of internal automation*
     
     > 11.2022-now
     
-    Led the team of 7 people, which successfuly:
+    - Led the team of 7 people
     - Transferred the core product to the modern and more suitable stack (Conan + Docker + fresh Debian)
-    - Prepared the certification process for several products
-    - Reduced average build time for core product by 50%
+    - Prepared the certification for several products
+    - Reduced average build time for core product by  more than 50%
     - Released ARM-compatible build for the core product, which allowed running on new hardware
 
     ```
     Python, Conan, Docker, Apache Ant/Ivy, GNU Make, TeamCity, Bash, etc.
     ```
 
-- ### DevOps, Build Engineer at [InfoTeCS](https://infotecs.ru/)
+- ### Software Engineer at [InfoTeCS](https://infotecs.ru/)
     *Cybersecurity software corporation, Department of internal automation*
     
     > 01.2021-10.2022
 
+    - Designed and implemented a Python application, which not only made it possible to certify core products, but made the build process faster, easier, more generic and automated.
+    - Set up static and composition analysis pipeline for products to increase code quality and eliminate security risks
     - Studied Ansible, created repo with playbooks, implemented IaaC approach, which significantly simplified administrative tasks
-    - Designed and implemented new build process in our products, which not only made it possible to certify these products, but made it easy, generic and automated.
-    - Introduced BlackDuck and Svace analysis for products to increase code quality and decrease risks 
-    - Created new build pipelines
-    - Administered TeamCity and build configurations
+    - Administered TeamCity and optimized build pipelines
     - Integrated Ant/Ivy for flexibility and convenience
     - Made a transition from sandbox build environment to Docker  
     
@@ -56,10 +55,10 @@ Tbilisi
 
     **Activities:**
 
-    - Designed and implemeted business logic 
-    - Created API
-    - Prepared infrastructure, deployed the whole thing, set up CI/CD pipeline  
-    - Took care of all security issues
+    - Designed and implemeted all business logic and MVC structure 
+    - Created API with FastAPI and DRF
+    - Single-handedly deployed and maintained all infrastructure and applications, set up the CI/CD
+    - Took care of security
 
     ```
     Django, DRF, Docker Compose, nginx, Postgres, etc.
@@ -71,14 +70,14 @@ Tbilisi
 
     > 07.2020-08.2020
 
-    - Implemented Service Discovery in small cluster
+    - Implemented Service Discovery in Docker Swarm cluster
     - Created and deployed auth microservice  
 
     ```
     Java, Spring, Docker Swarm, Eureka, JWT
     ```
 
-## Pet projects and more:
+## Pets and startups:
 - [docs.photo](https://docs.photo/)
     > A service to create photos for documents online based on neural networks  
     ```
@@ -89,11 +88,10 @@ Tbilisi
     ```
     NLP, ML, CS, Python
     ```
-- [Solving coding problems](https://binarysearch.com/@/StBalashov)
     
 ## Education:
 
-- Bachelor's degree of Applied Sciences at [ITMO University](https://en.itmo.ru), [Faculty of IT and Programming](https://en.itmo.ru/en/faculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
+- Bachelor's degree of Applied Math and Computer Science at [ITMO University](https://en.itmo.ru), [Faculty of IT and Programming](https://en.itmo.ru/en/faculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm), IT dept. 
     >2017-2021
 
 - Multiple online courses, including **k8s** [course](https://edu.slurm.io/courses/slurm-school-k8s-dev) on [slurm](https://edu.slurm.io/), **C++** [course](https://stepik.org/course/7) from [CSS](https://compscicenter.ru/), and **more** 
