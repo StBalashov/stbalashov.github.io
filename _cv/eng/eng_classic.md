@@ -11,10 +11,24 @@ Tbilisi
 
 ## Experience:
 
+- ### Backend Developer at [Avito](https://avito.ru/)
+  *№1 classified platform in the world*
+
+  > 03.2024-now
+
+  - Creating item card platform
+  - Optimizing observability and maintaining microservices
+  - Creating and updating various API, including gRPC, REST
+  - Creating corporate messenger bots
+
+    ```
+    Golang mostly  
+    ```
+
 - ### Lead Software Engineer at [InfoTeCS](https://infotecs.ru/)
     *Cybersecurity software corporation, Department of internal automation*
     
-    > 11.2022-now
+    > 11.2022-03.2024
     
     - Led the team of 7 people
     - Transferred the core product to the modern and more suitable stack (Conan + Docker + fresh Debian)
